@@ -1,7 +1,7 @@
 const env = {
-  database: 'submit',
+  database: 'your_database_name',
   username: 'postgres',
-  password: 'myPassword',
+  password: 'your_password',
   host: 'localhost',
   dialect: 'postgres',
   pool: {
